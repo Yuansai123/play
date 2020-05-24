@@ -5,7 +5,7 @@ class Home extends Component{
     state = { }
     render(){
         return(
-            
+            <div>3333</div>
         )
     }
 }
