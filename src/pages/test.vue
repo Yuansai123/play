@@ -13,6 +13,10 @@
             <div class="red" ref='red'><span class="red1">{{weijibfb}}</span><span class="red2">%</span></div>
         </div>
         <button @click="btn">点击修改数据</button>
+        <button @click="btn">点击修改数据</button>
+        <button @click="btn">点击修改数据</button>
+        <button @click="btn">点击修改数据</button>
+        <button @click="btn">点击修改数据</button>
     </div>
 </template>
 <script>
